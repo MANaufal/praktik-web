@@ -1,3 +1,3 @@
-NIM:6706213112
+NIM: 6706213112
 
-Nama:Muhammad Athallah Naufal
+Nama: Muhammad Athallah Naufal
